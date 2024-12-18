@@ -20,6 +20,7 @@ Dalam proyek ini, kami membandingkan dua arsitektur model CNN:
 2. **GoogleNet Inception V3** - Model lebih kompleks yang lebih unggul dalam menangani data gambar yang rumit.
 
 ## 👩‍💻 Anggota Tim
+- **Rafi Fadhlillah** - 1214501143
 - **Elsyah Sapyrah** - 121450096
 - **Lia Alyani** - 121450138
 - **Rahmi Agustin** - 121450032
